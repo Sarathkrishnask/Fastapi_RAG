@@ -1,4 +1,4 @@
-# Blomifai
+# FastAPI RAG APP
 
 ## Technology Stack:
 * FastAPI
